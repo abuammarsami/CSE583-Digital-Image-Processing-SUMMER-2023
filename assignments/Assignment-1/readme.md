@@ -1,36 +1,82 @@
-# Digital Image Processing Assignment
+# Assignment 1: Image Effects Implementation
 
-This repository contains the implementation and documentation of various image effects as part of the Digital Image Processing course (CSE 583) at North South University.
+Welcome to Assignment 1 of the Digital Image Processing course at North South University! In this assignment, we dive into the world of image effects, bringing your images to life with fascinating transformations.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Methodology](#methodology)
-- [Experiment](#experiment)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
+## What's Inside?
 
-## Introduction
-This repository hosts the assignments and project for the Digital Image Processing course at North South University. The assignments involve implementing image effects such as Posterization, Nightvision, Photocopy, Vignetting, and Mirror Image using MATLAB. The code, along with explanations and visualizations, is provided to demonstrate the understanding and application of digital image processing concepts.
+- `base code/`: The heart of your transformations, where MATLAB magic happens.
+  - `input/`: Your image playground, filled with images to be transformed.
+  - `output/`: The gallery of your masterpiece transformations.
+  - `sampleIN-OUT/`: Your compass - sample input and expected output for guidance.
 
-## Methodology
-The methodology section describes the steps taken to implement each image effect. It covers the logic behind each effect, code implementation, and a general overview of the techniques employed. Check out the [Methodology Section](methodology.md) for detailed explanations.
+![Assignment Cover](Assignment-1.png)
 
-## Experiment
-In the experiment section, we delve into the implementation of each effect and present the results. MATLAB code, along with explanations and visualizations, is provided for each effect. To see the transition from input to output images and the impact of each effect, visit the [Experiment Section](experiment.md).
+## Transformations Unleashed
 
-## Usage
-1. Clone this repository to your local machine.
-2. Open MATLAB and navigate to the cloned repository.
-3. Browse the individual effect folders to find MATLAB scripts for each effect.
-4. Run the MATLAB scripts to see the input, intermediate, and output images.
+Prepare to be amazed! We've unleashed an array of image effects to mesmerize you:
+1. **Posterization**: Adding a touch of pop-art style to your images.
+2. **Nightvision**: See the world through the eyes of night vision technology.
+3. **Photocopy**: Copying images like a photocopier, but with a twist.
+4. **Vignetting**: Embrace the dramatic spotlight effect in your images.
+5. **Mirror Image**: Reflect and multiply your images in a mirror realm.
 
-## Results
-The results folder contains visualizations of the transition from input to output images for each effect. Check out the images in the [Results Folder](results/) to see the effects in action.
+## Get Started
 
-## Contributors
-- [Your Name](https://github.com/yourusername) - MSc in CSE, North South University
+1. Clone or download this repository to your local machine.
+2. Explore the `base_code/` directory and witness the code magic.
+3. Execute MATLAB scripts to see transformations unfold before your eyes.
+4. Witness the output images appear in the `output/` gallery.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## See It in Action: Before & After ✨
+
+Witness the enchantment unfold as we present before-and-after images showcasing our magical powers:
+
+### Posterization: Pop-Art Penguin 🐧🎨
+From a plain penguin to a pop-art sensation!
+
+![Posterization Example](base%20code/output/penguin_posterized_image.jpg)
+
+### Nightvision: Penguin of the Night 🌃🦉
+A penguin's nocturnal adventure in stunning night vision.
+
+![Nightvision Example](base%20code/output/penguin_nightvision_image.jpg)
+
+### Photocopy: Quirky Copy Penguin 🐧📄
+Our penguin friend becomes a quirky copy machine masterpiece.
+
+![Photocopy Example](base%20code/output/penguin_photocopy_image.jpg)
+
+### Vignetting: Penguin in the Spotlight 🎭🌟
+The spotlight is on as our penguin takes center stage.
+
+![Vignetting Example](base%20code/output/penguin_vignette_image.jpg)
+
+### Mirror Image: Penguin's Reflections 🐧🪞
+An introspective penguin gazes at its mirrored self.
+
+![Mirror Image Example](base%20code/output/penguin_mirror_image.jpg)
+
+### The Grand Finale 🎉
+
+Congratulations! You've witnessed the wonders of the Image Wizardry show. But the real magic happens when you dive into the code and bring your own images to life. Feel free to explore and create your own image masterpieces!
+
+## Validate Your Skills
+
+Want to test your skills? We've provided sample input images and their expected outputs in the `sampleIN-OUT/` directory. Compare your creations with these golden standards.
+
+## Dive Deeper
+
+For an in-depth exploration, check out the detailed [assignment report](assignment_report.pdf). Uncover insights, code snippets, and visualizations that take you behind the scenes.
+
+## Questions or Applause? 🎩👏
+
+If you have any questions or wish to applaud the image wizard, don't hesitate to reach out to us. Happy image enchanting!
+
+![Wizard](subdirectory/wizard.png)
+
+
+---
+
+*Note: Image credits to [Unsplash](https://unsplash.com) for the adorable penguin images and to [Pikisuperstar](https://www.freepik.com/pikisuperstar) for the wizard illustration.*
+
+
