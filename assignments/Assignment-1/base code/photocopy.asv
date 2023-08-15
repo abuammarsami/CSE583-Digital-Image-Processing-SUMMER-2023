@@ -1,0 +1,30 @@
+% Load an image
+image = imread('input/flower.jpg');
+
+% Convert the image to grayscale
+gray_image = rgb2gray(image);
+
+% Set the threshold value
+threshold = 100;
+
+% Initialize the output image
+output_image = zeros(size(gray_image));
+
+% Apply Photocopy effect
+for y = 1:size(gray_image, 1)
+    for x = 1:size(gray_image, 2)
+        if gray_image(y, x) > threshold
+            output_image(y, x) = 255;  % If pixel value > threshold, set to 255
+        else
+            output_image(y, x) = gray_image(y, x) * (threshold - gray_image(y, x)) / (threshold^2);
+        end
+    end
+end
+
+% Display  the result
+photo_copy_image = uint8(output_image);
+subplot(1, 2, 1), imshow(gray_image), title('Grayscale Image');
+subplot(1, 2, 2), imshow(photo_copy_image), title('Photocopy Image');
+
+% Save  the result
+imwrite(output_image, 'output/photocopy_image.jpg');
