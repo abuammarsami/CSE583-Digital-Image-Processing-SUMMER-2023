@@ -1,65 +1,65 @@
 # CSE583-Digital-Image-Processing-SUMMER-2023
- An NSU Digital Image Processing Repository
+🎨 Unleash the Magic of Digital Image Processing 📸
 
-Welcome to the CSSE583 Digital Image Processing repository! This repository contains course materials, assignments, projects, and resources for the CSE583 course offered at North South University.
+Welcome to the mesmerizing realm of the CSSE583 Digital Image Processing repository! Here, pixels transform, images dazzle, and pixels become poetry. Join us on this enchanting journey through pixels and artistry.
 
 ## Table of Contents
 
 - [Course Overview](#course-overview)
-- [Directory Structure](#directory-structure)
-- [Getting Started](#getting-started)
-- [Assignments](#assignments)
-- [Projects](#projects)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
+- [Directory Spellbook](#directory-spellbook)
+- [Embark on the Adventure](#embark-on-the-adventure)
+- [Unveil the Enchanted Assignments](#unveil-the-enchanted-assignments)
+- [Crafted Project Potions](#crafted-project-potions)
+- [Summon Additional Knowledge](#summon-additional-knowledge)
+- [Become a Co-Creator](#become-a-co-creator)
+- [License to Enchant](#license-to-enchant)
 
 ## Course Overview
 
-This repository accompanies the CSE 583: Digital Image Processing course at North South University. The course covers a range of topics in image processing, including point operations, spatial filtering, frequency domain processing, edge detection, image compression, and more.
+🌟 Welcome to the CSE 583: Digital Image Processing course at North South University! This mystical journey will lead you through the arcane arts of image transformation, pixel wizardry, and visual enchantment.
 
-## Directory Structure
+## Directory Spellbook
 
-The repository is organized as follows:
+The repository is organized with the precision of a sorcerer's spellbook:
 
-- **lectures**: Lecture notes and presentation slides provided by the instructor.
-- **assignments**: Assignment descriptions, example images, and your solutions.
-- **projects**: Reports, presentations, and code for the semester project.
-- **code**: Additional code snippets and examples related to the course topics.
-- **resources**: Supplementary resources such as articles, papers, and tutorials.
+- **lectures**: Unveil the secrets hidden in lecture notes and presentation scrolls.
+- **assignments**: Embark on assignments as thrilling quests, with example images as your companions.
+- **projects**: Craft potent concoctions in the form of reports, presentations, and code for the semester project.
+- **code**: Additional incantations and magical scripts to enhance your understanding.
+- **resources**: Gather scrolls of supplementary knowledge, articles, and mystic papers.
 
-## Getting Started
+## Embark on the Adventure
 
-If you're new to this repository, here's how you can get started:
+If you're ready to wield the power of pixels, follow these steps:
 
-1. Clone the repository to your local machine using `git clone <repository-url>`.
-2. Explore the directories to find lecture materials, assignments, and projects.
-3. For assignments and projects, follow the instructions in the respective directories.
+1. Summon the repository with `git clone <repository-url>`.
+2. Explore each directory like a true explorer, discovering lecture scrolls, assignment quests, and projects.
+3. Let your wand (keyboard) weave magic as you tackle assignments and projects.
 
-## Assignments
+## Unveil the Enchanted Assignments
 
-The `assignments` directory contains subdirectories for each assignment. Each subdirectory includes the assignment description, any relevant images, and your completed MATLAB code.
+In the `assignments` domain, each assignment holds a piece of the puzzle. Solve them to unravel the secrets of image transformations and bring images to life.
 
-## Projects
+## Crafted Project Potions
 
-The `projects` directory contains materials related to the semester project. Each project subdirectory includes the IEEE format report, presentation materials, and MATLAB code or Python scripts used for the project.
+Within the `projects` realm, you'll find the ultimate test of your magical skills. Projects require your expertise to concoct detailed reports, presentations, and code creations.
 
-## Resources
+## Summon Additional Knowledge
 
-The `resources` directory contains supplementary resources that can help you further understand the course concepts. Feel free to explore these materials to deepen your knowledge.
+The `resources` treasury holds scrolls of wisdom. Dive deep into these resources to enhance your understanding and master the arcane arts of image processing.
 
-## Contributing
+## Become a Co-Creator
 
-Contributions to this repository are welcome. If you have improvements to the code, additional resources, or corrections, feel free to open an issue or submit a pull request.
+🪄 Enchanted contributions are welcome! If you possess a magic formula, improve existing enchantments, or seek to correct any mystical missteps, open an issue or cast a pull request.
 
-Please note that any academic honesty policies must be strictly followed. Do not share or submit any solutions that violate your course's guidelines.
+Remember, the code of academic integrity must always be upheld. Do not wield or share solutions that defy the rules of academia.
 
-## License
+## License to Enchant
 
-This repository is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code and materials as long as you include the original license in your derived work.
+This repository is enchanted under the [MIT License](LICENSE). It bestows upon you the power to use, modify, and distribute the magical code and materials, as long as the original incantation is preserved.
 
 ---
 
 Course Instructor: Dr. Shafin Rahman
 Email: shafin.rahman@northsouth.edu
-Office Hours: Appointment basis
+Office Hours: By Mystic Appointment Only
